@@ -2,7 +2,7 @@
 - 👋 Olá, meu nome é @vzjhaj    
 - 👍 Meu email de contato é gabriel.horsai.barboz@escola.pr.gov.br
 - 👀 Eu estou interessado em aprender a progamar novas linguagens.
-- 🌱 Eu estou a progamar, recentimente, 
+- 🌱 Eu estou a progamar, recentimente, as linguagens de JavaScript e Scratch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
